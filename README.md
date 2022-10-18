@@ -22,12 +22,10 @@ Write a function that converts temperature between Celsius and Fahrenheit.
 
 ![Screenshots](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.03bZmDGXaBhBYyxxp3Ls3gHaEA%26pid%3DApi&f=1&ipt=e980d57210242747a51c41421e1f09a6de3b1fdaeaadd297496787bb64e80c88&ipo=images)
 
-[x] [Link to operational site](http://www.kirstenopstad.github.com/<REPOSITORY NAME>)
+[x] [Link to operational site](http://www.kirstenopstad.github.com/<REPOSITORY NAME>) -->
 
-[x] Goals
-1. Goal1
-2. Goal2
-3. Goal3 -->
+### Goals
+1. Convert temperature between Celsius and Fahrenheit
 
 ## Setup/Installation Requirements
 
@@ -43,7 +41,7 @@ Write a function that converts temperature between Celsius and Fahrenheit.
 
 [x] Is there other code this application depends on?
 
-_{Epicodus recommends deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_ -->
+_{Epicodus recommends deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
